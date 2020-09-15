@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Fluent Forms email labels
-	Plugin URI: https://github.com/shakyjake
+	Plugin URI: https://github.com/shakyjake/fluent-forms-email-labels
 	description: Allows you to output field labels on notification emails by using [[labels.your_field_name]]
 	Version: 1.0
 	Author: Jake Nicholson
